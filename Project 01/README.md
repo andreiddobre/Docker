@@ -27,4 +27,4 @@ $ docker rm $(docker ps -a -q)
 Display logs of a container.
 $ docker logs [container name]
 
-#Docker First Application example. Created for "A beginner’s guide to Docker — how to create your first Docker application" article on HereWeCode - https://herewecode.io/blog/a-beginners-guide-to-docker-how-to-create-your-first-docker-application/
+#Docker First Application example. Created for "A beginner’s guide to Docker — how to create your first Docker application" article on HereWeCode - https://herewecode.io/blog/a-beginners-guide-to-docker-how-to-create-your-first-docker-application
